@@ -1,4 +1,3 @@
-
 #ifndef CONTRA_H
 #define CONTRA_H
 #include "stm32f103xb.h"
